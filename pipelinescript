@@ -34,3 +34,4 @@ pipeline {
         }
     }
 }
+intall jenkins, terraform on the servers.
